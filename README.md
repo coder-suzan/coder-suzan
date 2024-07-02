@@ -3,15 +3,13 @@
 
 <p>Welcome to my page! </br> I'm Suzan, Shopify Plus Developer from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576497.png" width="13"/> <b>Bangladesh
 <h3>Things I code with</h3>
-	<div style="background-color: white;">
-  <img alt="React" src="https://cdn-icons-png.flaticon.com/512/5968/5968887.png" width="20"/> Shopify plus
-</div>
-
 <p>
-  <div style="background-color: white;">
-  <img alt="React" src="https://cdn-icons-png.flaticon.com/512/5968/5968887.png" width="20"/> Shopify plus
-</div>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Static Badge" src="https://img.shields.io/badge/shopify-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
+<img alt="Static Badge" src="https://img.shields.io/badge/shopify%20plus-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=black">
+
+
+ 
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
