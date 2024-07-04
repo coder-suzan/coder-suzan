@@ -2,7 +2,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Suzan, Shopify Plus Developer from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576497.png" width="13"/> <b>Bangladesh
+<p>Welcome to my page! </br> I'm Suzan, the Shopify Plus Developer from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576497.png" width="13"/> <b>Bangladesh.</b> I create the Shopify and Shopify plus store for the worldwide merchant.</p>
+	
 <h3>Things I code with</h3>
 <p>
 
@@ -33,7 +34,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-<h3>My Best Shopify projects list</h3>
+<!-- <h3>My Best Shopify projects list</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -51,13 +52,12 @@
       <td>2</td>
     </tr>
   </tbody>
-</table>
+</table> -->
+------------
+<h3>Reach out to me</h3>
 <p>
 	<a href="https://github.com/coder-suzan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <!-- 	<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
 	<a href="https://www.linkedin.com/in/md-suzan-hossen" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <!-- 	<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 </p>
-
-------------
-
