@@ -34,6 +34,12 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+
+<h3>Language Used</h3>
+"I generally use HTML, CSS, JavaScript, and Liquid for building Shopify themes. 
+For MERN Stack projects, I use React.js, Express.js, MongoDB, and Node.js."
+
+
 <!-- <h3>My Best Shopify projects list</h3>
 <table>
   <thead align="center">
@@ -53,7 +59,6 @@
     </tr>
   </tbody>
 </table> -->
-------------
 <h3>Reach out to me</h3>
 <p>
 	<a href="https://github.com/coder-suzan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
