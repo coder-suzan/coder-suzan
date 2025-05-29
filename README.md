@@ -30,18 +30,21 @@ If you're an agency looking for a reliable developer or a brand ready to level u
 </p>
 
 <p>
-Portfolio & Contact: <a href="https://suzanhossen.com">suzanhossen.com</a>	
+Portfolio & Contact: <a href="https://suzanhossen.com" target="_blank">suzanhossen.com</a>	
 </p>
 
 <p>
 <img alt="Shopify plus" src="https://img.shields.io/badge/shopify%20plus-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
 <img alt="Shopify" src="https://img.shields.io/badge/shopify-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
 <img alt="Liquid" src="https://img.shields.io/badge/Liquid-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
-	
+
+ <!--
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Expressjs" src="https://img.shields.io/badge/Expressjs-7E7E7E?style=flat-square&logo=express&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+-->
+
 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/Github-F05032?style=flat-square&logo=Github&logoColor=white" />
@@ -61,10 +64,6 @@ Portfolio & Contact: <a href="https://suzanhossen.com">suzanhossen.com</a>
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-
-<h3>Language Used</h3>
-"I generally use HTML, CSS, JavaScript, and Liquid for building Shopify themes. 
-For MERN Stack projects, I use React.js, Express.js, MongoDB, and Node.js."
 
 
 <!-- <h3>My Best Shopify projects list</h3>
@@ -91,5 +90,5 @@ For MERN Stack projects, I use React.js, Express.js, MongoDB, and Node.js."
 	<a href="https://github.com/coder-suzan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <!-- 	<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
 	<a href="https://www.linkedin.com/in/md-suzan-hossen" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<!-- 	<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
+        <a href="https://suzanhossen.com" target="_blank" style="color: #fff; background: #0a9e6d;">MY WEBSITE</a> 
 </p>
