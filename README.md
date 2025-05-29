@@ -1,12 +1,39 @@
-<img src="https://i.ibb.co/xqdJxWB/Md-suzan-hossen.png" width="100%"/>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img src="https://suzanhossen.com/wp-content/uploads/2025/05/Md-Suzan-Hossen-Shopify-developer.png" width="100%"/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 
-
-<p>Welcome to my page! </br> I'm Suzan, the Shopify Plus Developer from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576497.png" width="13"/> <b>Bangladesh.</b> I create the Shopify and Shopify plus store for the worldwide merchant.</p>
-	
-<h3>Things I code with</h3>
 <p>
+In early 2022, I built my first Shopify store for a friend who wanted to launch a small clothing brand. I had no idea that a single project would open the door to a full-time career in Shopify development.
+</p>
 
+<p>With 3.5+ years of experience, I help brands build fast, scalable, and high-converting Shopify stores.</p>
+
+<pre>
+I specialize in:
+✅ Custom Shopify Theme Development
+✅ Speed Optimization & Performance Tuning
+✅ Shopify Plus Customization
+✅ Advanced Liquid Programming & App Integrations
+✅ Responsive Design from Figma to Live Store
+</pre>
+
+<p>Over the years, I have collaborated with international brands, digital agencies, and solo entrepreneurs. Whether building from scratch, optimizing performance, or solving complex bugs, I always focus on one thing: delivering clean, reliable, and impactful solutions that help brands grow.</p>
+
+<pre>
+Why clients enjoy working with me:
+🛠️ I speak business and code, making tech decisions more straightforward for clients
+🧩 I'm proactive, communicative, and always meet deadlines
+🚀 I treat each project as if it were my own
+</pre>
+
+<p>
+If you're an agency looking for a reliable developer or a brand ready to level up your Shopify store, I'd love to hear your story.
+</p>
+
+<p>
+Portfolio & Contact: <a href="https://suzanhossen.com">suzanhossen.com</a>	
+</p>
+
+<p>
 <img alt="Shopify plus" src="https://img.shields.io/badge/shopify%20plus-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
 <img alt="Shopify" src="https://img.shields.io/badge/shopify-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
 <img alt="Liquid" src="https://img.shields.io/badge/Liquid-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
