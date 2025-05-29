@@ -48,17 +48,18 @@ Portfolio & Contact: <a href="https://suzanhossen.com" target="_blank">suzanhoss
 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/Github-F05032?style=flat-square&logo=Github&logoColor=white" />
-<img alt="firebase" src="https://img.shields.io/badge/Firebase-F3C43F?style=flat-square&logo=Firebase&logoColor=white" />
+
+ <!-- <img alt="firebase" src="https://img.shields.io/badge/Firebase-F3C43F?style=flat-square&logo=Firebase&logoColor=white" /> -->
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-EFD81D?style=flat-square&logo=JavaScript&logoColor=black" />
 <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind CSS-1AAEB4?style=flat-square&logo=Tailwindcss&logoColor=black" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7910F2?style=flat-square&logo=Bootstrap&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ <!-- <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> -->
 
 
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+   <!-- <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />-->
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Responsive design" src="https://img.shields.io/badge/-Responsive design-FB542B?style=flat-square&logo=design&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
@@ -66,7 +67,7 @@ Portfolio & Contact: <a href="https://suzanhossen.com" target="_blank">suzanhoss
 </p>
 
 
-<!-- <h3>My Best Shopify projects list</h3>
+<h3>My Best Shopify projects list</h3>
 <table>
   <thead align="center">
     <tr border: none;>
