@@ -1,37 +1,39 @@
 <img src="https://suzanhossen.com/wp-content/uploads/2025/05/Md-Suzan-Hossen-Shopify-developer.png" width="100%"/>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 
-<p>
-In early 2022, I built my first Shopify store for a friend who wanted to launch a small clothing brand. I had no idea that a single project would open the door to a full-time career in Shopify development.
-</p>
+# 💫 About Me:
+[![My Website](https://img.shields.io/badge/My-website-%230077B5.svg?logo=linkedin&logoColor=white)](https://suzanhossen.com)
+[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:shopifydev.suzan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-suzan-hossen) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.suzanhossen) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suzanhossenn) 
 
-<p>With 3.5+ years of experience, I help brands build fast, scalable, and high-converting Shopify stores.</p>
+I'm a professional Shopify developer with 3.5+ years of experience building high-converting, fully optimized Shopify stores. From custom theme development to Shopify Plus solutions, I deliver fast, scalable, and pixel-perfect eCommerce experiences.<br><br>
 
-<pre>
-I specialize in:
-✅ Custom Shopify Theme Development
-✅ Speed Optimization & Performance Tuning
-✅ Shopify Plus Customization
-✅ Advanced Liquid Programming & App Integrations
-✅ Responsive Design from Figma to Live Store
-</pre>
+## 💼 My Shopify Development Services
+🔧 Custom Shopify Theme Development<br>
+⚙️ Shopify Store Setup & Migration<br>
+💡 Advanced Shopify Custom Functionality (AJAX, metafields, filters)<br>
+🧩 App Integration<br>
+⚡ Shopify Speed Optimization & Conversion Rate Boosting<br>
+🛠️ Shopify Plus Development<br>
+📈 Ongoing Store Maintenance & Optimization<br><br>
 
-<p>Over the years, I have collaborated with international brands, digital agencies, and solo entrepreneurs. Whether building from scratch, optimizing performance, or solving complex bugs, I always focus on one thing: delivering clean, reliable, and impactful solutions that help brands grow.</p>
+## 🌐 Portfolio<br>
+Explore my portfolio: [suzanhossen.com](https://suzanhossen.com)
 
-<pre>
-Why clients enjoy working with me:
-🛠️ I speak business and code, making tech decisions more straightforward for clients
-🧩 I'm proactive, communicative, and always meet deadlines
-🚀 I treat each project as if it were my own
-</pre>
+## 📫 Let’s Connect<br>
+I’m open to freelance, contract, and full-time Shopify development roles.<br>
+LinkedIn: [linkedin.com/in/md-suzan-hossen](linkedin.com/in/md-suzan-hossen)<br>
+Instagram: [instagram.com/md.suzanhossen](instagram.com/md.suzanhossen)<br>
+Facebook: [facebook.com/suzanhossenn](facebook.com/suzanhossenn)<br><br>
 
-<p>
-If you're an agency looking for a reliable developer or a brand ready to level up your Shopify store, I'd love to hear your story.
-</p>
+“Let’s build Shopify stores that not only look great but also convert like crazy.”
 
-<p>
-Portfolio & Contact: <a href="https://suzanhossen.com" target="_blank">suzanhossen.com</a>	
-</p>
+
+## 💻 Tech Stack:
+<!-- 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+-->
 
 <p>
 <img alt="Shopify plus" src="https://img.shields.io/badge/shopify%20plus-black?style=flat&logo=shopify&logoSize=auto&labelColor=%2318175D&color=95BF47">
@@ -66,7 +68,18 @@ Portfolio & Contact: <a href="https://suzanhossen.com" target="_blank">suzanhoss
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=coder-suzan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=coder-suzan&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-suzan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=coder-suzan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- 
 <h3>My Best Shopify projects list</h3>
 <table>
   <thead align="center">
@@ -86,10 +99,3 @@ Portfolio & Contact: <a href="https://suzanhossen.com" target="_blank">suzanhoss
     </tr>
   </tbody>
 </table> -->
-<h3>Reach out to me</h3>
-<p>
-	<a href="https://github.com/coder-suzan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<!-- 	<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
-	<a href="https://www.linkedin.com/in/md-suzan-hossen" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-        <a href="https://suzanhossen.com" target="_blank" style="color: #fff; background: #0a9e6d;">MY WEBSITE</a> 
-</p>
